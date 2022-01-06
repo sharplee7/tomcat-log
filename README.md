@@ -10,6 +10,7 @@ Spring Boot의 web module에 있는 내장 톰캣은 기본적으로 access log�
 Hands on을 위해 https://start.spring.io 로 접속해 Spring Web Dependency를 추가 후 Generate 버튼을 클릭한다.
 
 
+
 다운로드 받은 tomcat-log 프로젝트의 압축을 풀고 사용하는 IDE를 통해 프로젝트 파일을 오픈한다.
 
 
